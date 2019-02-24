@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">latihanActivity</string>
+    <string name="button_main">kirim</string>
+    <string name="editText_main">silahkan masukan pesan</string>
+    
+    <string name="text_header"> penerima </string>
+    <string name="Activity2_name">secondActivity</string>
+</resources>
